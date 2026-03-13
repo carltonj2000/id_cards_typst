@@ -1,9 +1,6 @@
-#set page(numbering: "1", footer: align(center, text(10pt)[Insurance Cards]))
+#set page("us-letter", numbering: "1", margin: 0.5in, footer: align(center, text(10pt)[Insurance Cards]))
 #set figure(numbering: none)
 #let title = [Insurance Cards]
-
-#align(center, text(18pt)[#title])
-
 
 #figure(
   grid(
