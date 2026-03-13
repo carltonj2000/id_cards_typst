@@ -7,11 +7,11 @@
   columns: 2,
     gutter: 5em,
     figure(
-      image("dentalCard2026.png", width: 3.375in),
+      image("dentalCard2026.png", width: 3.625in), // 3.375 + 0.25
       caption: [Dental Insurance Card],
     ),
     figure(
-      image("medicalCard2026.png", width: 3.375in),
+      image("medicalCard2026.png", width: 3.625in),
       caption: [Medical Insurance Card],
     )
   )
